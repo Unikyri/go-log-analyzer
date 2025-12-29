@@ -30,3 +30,10 @@ This project focuses on:
 - Aggregating metrics such as errors, warnings, and request counts
 - Generating a system health summary
 
+## 📚 Learning Objectives
+
+- Understand Go concurrency patterns
+- Work with large files efficiently
+- Design a concurrent processing pipeline
+- Apply clean project structure in Go
+
